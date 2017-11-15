@@ -2,15 +2,15 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
-		<groupId>com.org.microservices.itemsharing</groupId>
+		<groupId>com.itemsharing</groupId>
 		<artifactId>ItemSharing</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 	<groupId>com.itemsharing.userservice</groupId>
-	<artifactId>ItemSharing.Userservice</artifactId>
+	<artifactId>ItemSharing.UserService</artifactId>
 	<packaging>jar</packaging>
-	<name>Userservice</name>
-	<description>Userservice for ItemSharing app</description>
+	<name>UserService</name>
+	<description>UserService for ItemSharing app</description>
 
 	<dependencyManagement>
 		<dependencies>
