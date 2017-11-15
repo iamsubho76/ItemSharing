@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: zipkinservice
+  profiles:
+    active: default
+  cloud:
+    config:
+      uri: http://54.172.185.62:8888
