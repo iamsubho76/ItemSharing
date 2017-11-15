@@ -29,6 +29,11 @@
 		<module>ItemService</module>
 		<module>ItemSharing.UserService</module>
 		<module>ItemSharing.Userservice</module>
+		<module>Itemsharing.Configserver</module>
+		<module>Itemsharing.Eurekaserver</module>
+		<module>Itemsharing.Zuulserver</module>
+		<module>Itemsharing.Zipkinserver</module>
+		<module>Itemsharing.Authorizationserver</module>
 	</modules>
 
 	<dependencies>
