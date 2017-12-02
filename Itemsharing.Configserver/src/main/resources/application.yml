@@ -6,9 +6,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/springmicro/config-repo
-          username: springmicro
-          password: password123
+          uri: https://github.com/iamsubho76/config-repo
+          username: iamsubho76
+          password: '!SUbhObanti#2074'
           search-paths: userservice, itemservice
         encrypt:
           enabled: false
