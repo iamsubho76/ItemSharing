@@ -1,2 +1,4 @@
 http://localhost:8888/userservice/default
 http://localhost:8888/itemservice/default
+
+http://localhost:8761/
