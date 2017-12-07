@@ -8,7 +8,7 @@ spring:
         git:
           uri: https://github.com/iamsubho76/config-repo
           username: iamsubho76
-          password: 
+          password: '{cipher}48d972cc39eac26dee8deb50ebd8a06de374d1f23d155039cf45f50a2ed776a6bdceb6a9dfc81e07eee58eb82785352c'
           search-paths: userservice, itemservice
         encrypt:
           enabled: false
