@@ -19,3 +19,9 @@
 #    enabled: false
 #server:
 #  port: 8082
+
+logging:
+  level:
+    com.netflix: WARN
+    org.springframework.web: WARN
+    com.itemsharing: DEBUG
